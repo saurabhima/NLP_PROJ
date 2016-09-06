@@ -1,0 +1,378 @@
+Middleton-166
+Monroe-2
+Roxboro-1
+Le Sud-Ouest-1
+Windsor-7
+Chomedey-1
+Blainville-2
+Paradise-24
+Lake Wylie-3
+Stanfield-1
+Aspinwall-10
+Wilkinsburg-5
+Seattle-1
+Bellevue-17
+Fort mill-1
+San Tan Valley-47
+Tega Cay-8
+Quebec-1
+Robinson Township-1
+Laval-120
+Pierrefonds-13
+Vimont-3
+Outremont-26
+chandler-1
+Stoughton-2
+Le Vieux-Port-1
+Enterprise-9
+Cote-des-Neiges-Notre-Dame-de-Grace-1
+Waddell-4
+Edgewood-1
+Braddock-3
+Leith-1
+Carefree-44
+PHOENIX-1
+Avondale-299
+Portobello-2
+Sedona-1
+Mckees Rocks-4
+Litchfield Park-86
+Coolidge-11
+Phoenix-Ahwatukee-1
+Mont-Royal-9
+Huntersville-27
+Montréal-Nord-2
+Heidelberg-3
+NELLIS AFB-1
+Bietigheim-4
+Karlsbad-4
+Whitney-1
+Rock Hill-1
+Mcfarland-2
+Spring Valley-9
+Gold Canyon-28
+Whitehall-1
+La Prairie-6
+N Las Vegas-13
+McKeesport-1
+St Jacobs-2
+Black Canyon City-2
+Waterloo-200
+Pfinztal-10
+Sainte-Anne-de-Bellevue-3
+North Las Vegas-616
+Banksville-1
+Surprise-448
+Arcadia-1
+Swissvale-5
+C Las Vegas-1
+Maricopa County-1
+Las Vegas -6
+Montreal-Ouest-1
+Saint-Lambert-4
+L'Île-Bizard-1
+Cote-Saint-Luc-1
+Southside Flats-1
+Balerno-1
+Pittsburgh-2724
+Youngtown-16
+Bellvue-2
+Pheonix-2
+Musselburgh-12
+Firth of Forth-1
+Tortilla Flat-3
+Allentown-1
+Summerlin-2
+Mt Lebanon-1
+Montreal-Est-1
+Weingarten (Baden)-2
+Wörth am Rhein-7
+Monona-71
+Stowe Township-1
+West Mifflin-26
+Nellis Afb-2
+Hagenbach-4
+Dalkeith-7
+Gila Bend-19
+Mesa-2347
+Chandler-1867
+Fort Mill-166
+Henderson (Stephanie)-1
+Sharpsburg-3
+LAS VEGAS-1
+Lasalle-16
+Neuburg-1
+Mattews-1
+Squirrel Hill-1
+Victoria Park-1
+Scottsdale, Phoenix, Chandler, Gilbert-1
+Pointe Claire-1
+Cramond Bridge-1
+Henderson and Las vegas-1
+Apache Junction-116
+Fitchburg-109
+Montréal-1870
+Kirkland-11
+Nellis AFB-11
+Dalgety Bay-1
+Florence-26
+West Homestead-8
+Terrebonne-2
+Deux-Montagnes-1
+Wickenburg-58
+Brentwood-5
+Upper Saint Clair-1
+South Gyle-1
+Dravosburg-3
+Cave Creek-180
+Goldfield-1
+Fort Mcdowell-2
+Kitchener-134
+Weddington-2
+Mirabel-1
+Allegheny-1
+Loanhead-5
+Luke AFB-1
+Surprise Crossing-1
+Gilbert-1263
+Stockbridge-3
+Cultural District-1
+Ft. Mill-1
+Saint Laurent-1
+Tonopah-6
+Forchheim-1
+Fabreville-1
+Saint-Hubert-1
+Sainte-Ann-De-Bellevue-1
+Delmont-1
+Desert Ridge-1
+Glendale-1377
+Henderson, NV 89074-1
+Saint-laurent-1
+Higley-10
+Fountain Hls-1
+Communauté-Urbaine-de-Montréal-1
+Henderson -1
+Sainte-Therese-1
+Bonnyrigg-3
+Henderson (Green  Valley)-1
+North Scottsdale-1
+Tolleson-61
+Sunrise-1
+Henderson-2130
+Bloomfield-1
+Newington-1
+Saint Jacobs-1
+McKees Rocks-9
+Scottdale-1
+N W Las Vegas-1
+Lasswade-3
+Downtown-2
+Montreal-West-1
+Castle Shannon-6
+Saguaro Lake-1
+Westmount-39
+Bruchsal-1
+Savoy-16
+Mc Kees Rocks-5
+Henderston-1
+Munhall-10
+North Queensferry-1
+W Summerlin-1
+Urbana-213
+Chateau-2
+Queensferry-3
+Rio Verde-4
+Boulder City-28
+Laveen-67
+Saint-Eustache-1
+Tonto Basin-3
+New River-8
+Deforest-3
+Shadyside-1
+Newberry Springs-1
+Metro Phoenix-1
+Guadalupe-8
+Las Vegas-13601
+Beaconsfield-3
+Chandler-Gilbert-1
+Millvale-3
+Mc Farland-11
+Tucson-1
+DeForest-6
+Phoenix-8410
+Scottsdale-4039
+Boisbriand-3
+Penicuik-1
+Juniper Green-3
+Arlington-1
+Brossard-42
+Pittsburgh/S. Hills Galleria-1
+Conestogo-1
+Inverkeithing-2
+University-1
+El Mirage-41
+Edinburgh City of-1
+Regent Square-1
+St. Jacobs-1
+W Henderson-1
+Bonnyrigg and Lasswade-1
+Glendale Az-1
+New Dundee-1
+De Forest-8
+Indian Trail-39
+Maricopa-111
+Centennial Hills-1
+Wittmann-1
+Sun Prairie-85
+Rheinstetten-10
+Cottage Grove-9
+Concord-120
+Mint Hill-35
+Columbus-2
+Baie-D'urfe-1
+McFarland-4
+Old Town-1
+Queen Creek-236
+Green Tree-1
+South Las Vegas-2
+Ingram-1
+Eagan-1
+Morristown-4
+Ahwatukee-10
+Homestead-71
+Madison-1758
+Anthem-83
+Montréal-Ouest-1
+Last Vegas-1
+Central City Village-4
+Verona-41
+Midlothian-3
+Bocholt-1
+Sainte-Genevieve-1
+Stutensee-6
+Concord Mills-2
+South Queensferry-11
+W Spring Valley-1
+Bethel Park-2
+Mt. Oliver Boro-1
+Scotland-1
+Île des Soeurs-1
+Greenfield Park-5
+Durmersheim-11
+Dollard-Des Ormeaux-1
+Stallings-7
+Sainte-Thérèse-2
+N. Las Vegas-2
+Verdun-83
+Lawrenceville-2
+Water of Leith-1
+Waxhaw-1
+Goodyear-354
+Oakland-3
+Central Henderson-1
+Centropolis Laval-1
+Ettlingen-51
+Wesley Chapel-4
+Champaign-398
+Straiton-1
+Phoenix Sky Harbor Center-1
+Stutensee neuthard-1
+Litchfield Park -1
+Saint-Laurent-45
+Bridgeville-7
+Mount Washington-3
+Casa Grande-114
+Crafton-2
+Waunakee-25
+Newbridge-3
+Tempe-2258
+Edinburgh-3031
+LaSalle-2
+Mount Lebanon-11
+South Hills-1
+City of Edinburgh-1
+Lower Lawrenceville-1
+Matthews-272
+Sun City West-20
+Fort McDowell-6
+Deux-Montagnes Regional County Municipality-1
+N E Las Vegas-1
+Karlsruhe-806
+Pittsburgh/Waterfront-1
+Roslin-1
+Dane-3
+New Town-3
+Saint-Leonard-16
+Pointe-Aux-Trembles-1
+Waldbronn-5
+Mascouche-1
+1023 E Frye Rd-1
+Pineville-137
+Carnegie-44
+Clark County-5
+Fountain Hills-129
+Longueuil-17
+Woolwich-2
+Sainte-Anne-De-Bellevue-6
+Charlotte -1
+Rosemère-5
+Old Montreal-1
+Fort Kinnaird-1
+Indian Land-7
+L'Île-des-Soeurs-1
+Mount Royal-1
+Charlotte-4224
+Rankin-2
+Nboulder City-1
+Harrisburg-21
+Scottsdale Country Acres-1
+Brookline-1
+Pittsburg-2
+Summerlin South-2
+Montreal-1384
+Mesa -1
+Weingarten-11
+Etna-1
+St Clements-1
+Eggenstein-Leopoldshafen-10
+Clover-2
+Dollard-des-Ormeaux-29
+Rosemere-2
+Cramond-1
+Dormont-6
+Sun City Anthem-1
+Mount Holly-11
+Jockgrim-1
+North Las Vegas -1
+Sun Lakes-12
+Dorval-26
+Anjou-6
+Pittsburrgh-1
+Ratho-1
+Green Valley-1
+Montéal-1
+Baden-Baden-1
+Belmont-54
+Pointe-Claire-36
+Roosevelt-1
+Ste-Rose-1
+St-Laurent-1
+Nellis Air Force Base-1
+Montreal-Nord-1
+Sun City-84
+Charlotte (University)-1
+Paradise Valley-93
+Los Angeles-1
+Cambridge-6
+Las Vegas East-1
+Boucherville-1
+Stowe-1
+Buckeye-92
+Lake Las Vegas-1
+Dollard-Des-Ormeaux-29
+London-1
+Peoria-688
+Lachine-15
+San Diego-1
+Bapchule-1
