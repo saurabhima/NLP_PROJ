@@ -29,13 +29,14 @@ def search_data(yelp_client, city, yelp_file):
                 # fh.write('Latitude-'+str(data[a]["lat"])+'Longitude-'+str(data[a]["lon"])+'\n')
                 print('Search City ' + city + ' with Latitude ' + str(lat) + ' Longitude ' + str(lon))
                 total = 0
-                radius=800
-                filestr='output_lat_'+str(lat)+'long_'+str(lon)+'.json'
+                radius = 800
+                check = False
+                filestr = 'output_lat_' + str(lat) + 'long_' + str(lon) + '.json'
                 fh = open(filestr, 'a+')
-                while (total <= 0):
+                while (total <= 0 or check == True):
                     url = 'https://api.yelp.com/v3/businesses/search?location='
                     url = url + city + '&limit=1'
-                    url = url + '&latitude=' + str(lat) + '&longitude=' + str(lon) + '&radius=800'
+                    url = url + '&latitude=' + str(lat) + '&longitude=' + str(lon) + '&radius=' + str(radius)
                     br = 'Bearer ' + yelp_client
                     headers = {'Authorization': br}
                     try:
@@ -51,15 +52,20 @@ def search_data(yelp_client, city, yelp_file):
                             print(r.text)
 
                         else:
-                            total_temp = json_output['total']
-                            total_temp = int(total_temp)
-                            if total_temp > 0:
-                                total = total_temp
-                                print('Total Set to-->' + str(total))
-                                if total>1000:
-                                    radius=500
+                            if 'total' in json_output:
+                                total_temp = json_output['total']
+                                total_temp = int(total_temp)
+                                if total_temp > 0:
+                                    total = total_temp
+                                    print('Total Set to-->' + str(total))
+                                    if total > 1000 and radius > 300:
+                                        radius = radius - 100
+                                        check = True
+                                    else:
+                                        check = False
+                print('Radius Set To-->' + str(radius))
 
-                while offset <= total:
+                while offset <= total and offset<1000:
 
                     print("Fetching Dataset in Turn-->" + str(turn))
                     turn = turn + 1
@@ -91,7 +97,7 @@ def search_data(yelp_client, city, yelp_file):
                     time.sleep(.5)
 
 
-                    # print(r.text)
+                print(r.text)
         fh.close()
 
 
